@@ -1,4 +1,4 @@
-package exercicioHeranca;
+package javaIIpraticaIIHerancaProdutos;
 
 public class Distribuidora_ {
     public static void main(String[] args) {

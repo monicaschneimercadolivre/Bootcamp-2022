@@ -1,4 +1,4 @@
-package exercicioHeranca;
+package javaIIpraticaIIHerancaProdutos;
 
 public class NaoPereciveis extends Produto {
     private String tipo;

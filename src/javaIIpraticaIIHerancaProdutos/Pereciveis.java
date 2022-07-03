@@ -1,4 +1,4 @@
-package exercicioHeranca;
+package javaIIpraticaIIHerancaProdutos;
 
 public class Pereciveis extends Produto{
     private double diasParaVencer;
